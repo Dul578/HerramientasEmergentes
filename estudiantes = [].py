@@ -1,3 +1,4 @@
+#programa de promedio de estudiantes
 estudiantes = []
 
 def insertar():
